@@ -12,7 +12,8 @@
 ||i.dailymail.co.uk/i/pix/fm/
 ||taboola.com^$domain=dailymail.co.uk
 ||scripts.dailymail.co.uk/static/mol-adverts/
-||static.criteo.net/js/ld/publishertag.js$domain=dailymail.co.uk ||scripts.dailymail.co.uk/static/videoplayer//2.32.1/scripts/mol-fe-videoplayer.min.js
+||static.criteo.net/js/ld/publishertag.js$domain=dailymail.co.uk
+||scripts.dailymail.co.uk/static/videoplayer//2.32.1/scripts/mol-fe-videoplayer.min.js
 ||hulkprod.anm.co.uk^$important
 ||fff.dailymail.co.uk^$important
 ||www.newzit.com^$important
